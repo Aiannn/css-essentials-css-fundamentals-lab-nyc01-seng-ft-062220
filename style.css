@@ -32,6 +32,12 @@ figcaption {
 }
 
 #details {
-  display:;
+  display: 
+}
+
+#details div {
+  background-color: green;
+  text-align: center;
+  width: 25%;
 }
 
