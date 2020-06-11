@@ -8,6 +8,7 @@ h1 {
   text-align: center
 }
 
-/*img {
-  align-content: center
-}*/
+img {
+  margin-right: auto;
+  margin-left: auto;
+}
